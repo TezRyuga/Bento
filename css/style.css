@@ -4,9 +4,9 @@
     --fsm: 85px;
     --fss: 30px;
     --fses: 18px;
-    --accent: #186efdaa;
-    --bg: #f5f5f5;
-    --sbg: #e4e6e6;
+    --accent: #8b2635ff;
+    --bg: #d3efbdff;
+    --sbg: #e0e3dbff;
     --fg: #3a3a3a;
 }
 @media only screen and (max-width: 68.75em) {
@@ -18,9 +18,9 @@
 }
 
 .darktheme {
-    --accent: #186efd60;
-    --bg: #1e1f21;
-    --sbg: #2c2d31;
+    --accent: #8b2635ff;
+    --bg: #2e3532ff;
+    --sbg: #e0e2dbff;
     --fg: #d8dee9;
 }
 
