@@ -4,9 +4,9 @@
     --fsm: 85px;
     --fss: 30px;
     --fses: 18px;
-    --accent: #8b2635ff;
+    --accent: #fb8f67ff;
     --bg: #d3efbdff;
-    --sbg: #e0e3dbff;
+    --sbg: #d3efbdff;
     --fg: #3a3a3a;
 }
 @media only screen and (max-width: 68.75em) {
@@ -18,10 +18,10 @@
 }
 
 .darktheme {
-    --accent: #8b2635ff;
+    --accent: #8b3635ff;
     --bg: #2e3532ff;
-    --sbg: #e0e2dbff;
-    --fg: #3a3a3a;
+    --sbg: #2e3532ff;
+    --fg: #d2d4c8ff;
 }
 
 * {
@@ -82,7 +82,7 @@ body {
 }
 
 .card {
-    box-shadow: 0 5px 7px rgba(0, 0, 0, 0.35);
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.35);
     border-radius: 5px;
     background-color: var(--sbg);
 }
@@ -212,7 +212,7 @@ body {
     align-items: center;
     background-color: var(--sbg);
     width: 100%;
-    box-shadow: 0 5px 7px rgba(0, 0, 0, 0.35);
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.35);
     border-radius: 5px;
 }
 .qlink__link-1 {
