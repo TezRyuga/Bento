@@ -246,7 +246,6 @@ body {
 .qlink__link-8 {
     grid-row: 2;
     grid-column: 4;
-    align-items: center;
 }
 .qlink__link:hover {
     background-color: var(--accent);
@@ -290,4 +289,9 @@ body {
 .qlist__link:hover {
     background-color: var(--accent);
     color: var(--fg);
+}
+
+.reddit_icon {
+    width: 16px;
+    height: 16px;
 }
